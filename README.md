@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The danger of discontentment intreated of in a sermon preached at Crowhurst in Surrey the ninth of I
+
+1. TO THE RIGHT VVorshipfull M. Edmunde Bowyer Eſquire, and M. Iohn Bowyer his brother, mercie and peace be multiplyed in Chriſt Ieſus.
+
 #####Body#####
-The danger of discontentment intreated of in a sermon preached at Crowhurst in Surrey the ninth of I
+1. Sam. 12.19.VVe haue added a vvickedneſſe to all our other ſinnes, in asking vs a King.WHen Nachaſ
 **Types of content**
 
   * There are 12 **verse** lines!
